@@ -1,10 +1,9 @@
-
 # WEB
 <html>
 <table>
 <tr>
 <th>DETAIL</th>
-<th>suggestion</th>
+<th>SUGGESTION</th>
 </tr>
 <tr>
 <th>page tittle</th>
