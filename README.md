@@ -1,6 +1,11 @@
+
 # WEB
 <html>
 <table>
+<tr>
+<th>DETAIL</th>
+<th>suggestion</th>
+</tr>
 <tr>
 <th>page tittle</th>
 <td>Jesus and Mary College Chanakyapuri New Delhi</td>
@@ -24,6 +29,14 @@
 <tr>
 <th>keywords</th>
 <td>DU assignments,DU Societies,Government college</td>
+</tr>
+<tr>
+<th>expiration</th>
+<td>days left 3years,11months,5days</td>
+</tr>
+<tr>
+<th>admin email</th>
+<td>marinajmc@gmail.com</td>
 </tr>
 </table>
 </html>
